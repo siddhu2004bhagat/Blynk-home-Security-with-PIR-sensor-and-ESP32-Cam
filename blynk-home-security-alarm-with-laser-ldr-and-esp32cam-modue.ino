@@ -2,11 +2,10 @@
 //
 // NOTE: This sketch MUST be placed in a folder that contains the supporting files 
 //       from the CameraWebServer example: app_httpd.cpp, camera_index.h, and camera_pins.h
-//
-// Viral Science www.youtube.com/c/viralscience  www.viralsciencecreativity.com
+
 
 // --- FIX: BLYNK TEMPLATE DEFINITIONS MOVED TO TOP ---
-#define BLYNK_TEMPLATE_ID "TMPL3teSEP15W"
+#define BLYNK_TEMPLATE_ID "TMPL3teSEP15y"
 #define BLYNK_TEMPLATE_NAME "Home Laser Security"
 #define BLYNK_FIRMWARE_VERSION "1.0.0"
 
@@ -41,7 +40,7 @@
 // ===========================
 const char *ssid = "Siddhu";
 const char *password = "12345671";
-char auth[] = "4PUj6-ILI2E8p_b198oAx1-nh3ehh58s";  // <<< PASTE YOUR 32-CHARACTER AUTH TOKEN HERE >>>
+char auth[] = "__________________________";  // <<< PASTE YOUR 32-CHARACTER AUTH TOKEN HERE >>>
 
 String local_IP;
 
